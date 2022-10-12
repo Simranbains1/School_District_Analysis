@@ -6,24 +6,31 @@ This project aims to organize and analyze data from 15 different schools. We use
 ## Results 
 How is the district summary affected?
 - The district summary showed a slight decrease in the math from 75% to 74.8%
-- 2
+- The passing summary went down 0.1% from the original 65%
+
 How is the school summary affected?
-- 
-- 
+- The average math score at Thomas High School increased while the average reading score decreased
+
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-- 
-- 
+- There is a negligible effect to the math and reading scores
+
 How does replacing the ninth-grade scores affect the following:
-  Math scores by grade
-  - Average score went down 0.1%, from 79% to 78.9%
-  Reading scores by grade
-  - Average score remained the same at 81.9%
-  Scores by school spending
-  - 
-  Scores by school size
-  - 
-  Scores by school type
-  -
+- Math scores by grade
+  - Average score went down 0.1%
+- Reading scores by grade
+  - Average score remained the same
+- Scores by school spending
+  - The scores by school spending are very slightly changed by replacing the ninth grade scores
+- Scores by school size
+  - The scores by school size did not change
+- Scores by school type
+  - There was no change in scores by school type
 
 ## Summary 
-Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+After the reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs, there were very slight changes to the overall analysis. 
+- The overall math scores had a slight decrease
+- The scores by school spending slightly changed
+- The district summary had a very slight increase
+- The passing summary went down 0.1%
+
+![School_District_Summary](https://github.com/Simranbains1/School_District_Analysis/blob/main/School_District_Summary.png)
